@@ -1,0 +1,13 @@
+<!--<resources-->
+        <!--tools:ignore="ExtraTranslation"-->
+        <!--xmlns:tools="http://schemas.android.com/tools">-->
+<resources>
+    <string name="app_name">AndroidWidgetsKotlin</string>
+    <string name="appwidget_text" translatable="false">EXAMPLE</string>
+    <string name="add_widget" translatable="false">Add widget</string>
+
+    <string name="grams">grams</string>
+    <string name="ristretto_short">Ristretto</string>
+    <string name="espresso_short">Espresso</string>
+    <string name="long_coffee_short">Long</string>
+</resources>
